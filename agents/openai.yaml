@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes 安装与飞书接入"
+  short_description: "从零安装 Hermes、登录订阅并接入飞书群，覆盖 Windows 原生、WSL2 与 macOS"
+  default_prompt: "使用 $hermes-feishu-setup 从零安装 Hermes，登录我的 ChatGPT 订阅并接入指定飞书账号和群聊。"
